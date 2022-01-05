@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc_database", "mvc_database\mvc_database.csproj", "{F767D26B-C6C8-4428-8C27-FAAD04BD8C1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F767D26B-C6C8-4428-8C27-FAAD04BD8C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F767D26B-C6C8-4428-8C27-FAAD04BD8C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F767D26B-C6C8-4428-8C27-FAAD04BD8C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F767D26B-C6C8-4428-8C27-FAAD04BD8C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FAF3146-1F08-4137-931D-A5AD3500FE34}
+	EndGlobalSection
+EndGlobal
